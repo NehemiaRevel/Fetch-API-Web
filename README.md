@@ -1,4 +1,5 @@
 # Fetch-API-Web
+https://nehemiarevel.github.io/Fetch-API-Web/
 This web contains 3 kind of fetching
 
 1) local .txt files
